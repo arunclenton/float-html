@@ -1,0 +1,41 @@
+body{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.box1{
+    float: left;
+    background-color: red;
+    width: 50%;
+    height: 250px;
+    position: relative;
+    bottom: 21px;
+}
+ h1{
+    text-align: center;
+    color: #fff;
+    /* margin-top: 0px; */
+    margin-top: 80px
+}
+.box2{
+    float: left;
+    background-color: green;
+    width: 50%;
+    height: 250px;
+    position: relative;
+    bottom: 21px;
+    text-align: center;
+color: #fff;
+}
+ h2{
+    text-align: center;
+color: #fff;
+position: relative;
+    top: -8px;
+    font-size: 30px;
+}
+.box3{
+    background-color: black;
+    text-align: center;
+color: #fff;
+
+}
